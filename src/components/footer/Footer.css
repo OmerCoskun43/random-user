@@ -1,0 +1,19 @@
+.footer-div {
+  width: 100%;
+  background-color: lightblue;
+  font-size: 2rem;
+  color: #9d4d8c;
+  border: 0.5px solid #9d4d8c;
+  position: fixed;
+  bottom: 0px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 0px;
+}
+
+.brand {
+  color: fuchsia;
+  font-weight: bold;
+  margin-right: 1.5rem;
+}
