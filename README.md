@@ -1,47 +1,7 @@
-<p>Clarusway<img align="right"
-  src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
+# https://random-user-basic-react-project.netlify.app/
 
-# Random User App
+## Random User App
 
-## Description
-
-Project aims to create a Random User App.
-
-## Problem Statement
-
-- We are adding a new project to our portfolios. So you and your colleagues have started to work on the project.
-
-## Project Skeleton
-
-```
-03 - Random User App
-|
-|----readme.md         # Given to the students (Definition of the project)
-SOLUTION
-├── public
-│     └── index.html
-├── src
-│    ├── assets.js
-│    │       └── [images]
-│    ├── App.js
-│    ├── App.css
-│    ├── index.js
-│    └── index.css
-├── package.json
-└── yarn.lock
-```
-
-## Expected Outcome
-
-![Project Snapshot](./random-user-app.gif)
-
-## Objective
-
-Build a Random User App using ReactJS.
-
-### At the end of the project, following topics are to be covered;
-
-- HTML
 
 - CSS
 
